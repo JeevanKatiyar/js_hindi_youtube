@@ -29,3 +29,14 @@ const myFunction =function(){
 console.table(myDetails);
 //Note: Javascript is a Dynamically Typed Language
  //*/
+
+ //++++++++++++++++++++++++++++++++++
+
+ /* 
+ Memory
+
+ Stack Memory (Primitive)
+ Heap Memory (Non-Primitive)
+ */
+
+ let name ="  "
